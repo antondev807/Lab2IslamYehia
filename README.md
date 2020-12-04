@@ -14,3 +14,10 @@ foobar.pluralize('goose') #returns 'geese'
 foobar.pluralize('phenemone') #returns 'words'
 
 ```
+ ```
+# code block
+import foobar 
+foobar.pluralize('word') #returns 'words'
+foobar.pluralize('goose') #returns 'geese'
+foobar.pluralize('phenemone') #returns 'words'
+``` 
