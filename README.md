@@ -14,10 +14,10 @@ foobar.pluralize('goose') #returns 'geese'
 foobar.pluralize('phenemone') #returns 'words'
 
 ```
- ```
-# code block
-import foobar 
-foobar.pluralize('word') #returns 'words'
-foobar.pluralize('goose') #returns 'geese'
-foobar.pluralize('phenemone') #returns 'words'
-``` 
+##  **Contributing**
+
+Pull requests are welcome .for major changes ,please open an issue first to discuss what would you like to change .
+
+##  **License**
+
+[MIT](https://www.mit.edu/)
