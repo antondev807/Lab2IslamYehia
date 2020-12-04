@@ -1,1 +1,4 @@
-amsmdnl lksdlklksdlkad
+git branch -d newbranch
+git branch -D newbranch
+git push origin :newbranch
+
