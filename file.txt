@@ -1,4 +1,4 @@
 git branch -d newbranch
 git branch -D newbranch
-git push origin :newbranch
+git push origin --delete newbranch
 
